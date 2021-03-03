@@ -20,6 +20,7 @@
 		C4539AD425EF7A9700B0C952 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4539AD725EF7A9700B0C952 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C4539AD925EF7A9700B0C952 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4539AE225EFC91500B0C952 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +37,7 @@
 		C4539AC425EF7A9400B0C952 = {
 			isa = PBXGroup;
 			children = (
+				C4539AE225EFC91500B0C952 /* README.md */,
 				C4539ACF25EF7A9400B0C952 /* ManyButton */,
 				C4539ACE25EF7A9400B0C952 /* Products */,
 			);
